@@ -59,5 +59,11 @@ footer{
     aside{
         flex: 1;
     }
+    header{
+        width: 100%;
+    }
+    footer{
+        width: 100%;
+    }
 
 }
